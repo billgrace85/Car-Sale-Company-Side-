@@ -1,0 +1,19 @@
+# Compiled binaries
+car_sales
+car_sales.exe
+*.exe
+*.out
+*.o
+*.obj
+
+# Runtime sales data
+billgrace.csv
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
